@@ -7,12 +7,12 @@
   <a href="https://github.com/HardDevInfo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harddevinfo&theme=radical"/>  
   </a>
-  <a href="https://github.com/HardDevInfo">
+  <!-- <a href="https://github.com/HardDevInfo">
     <img src="https://github-readme-stats.vercel.app/api?username=HardDevInfo&theme=radical&show_icons=true"/>  
   </a> 
   <a href="https://github.com/HardDevInfo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harddevinfo&layout=compact&langs_count=8&theme=dark"/> 
-  </a> 
+  </a>  -->
 </p>
 
 ## Contato
