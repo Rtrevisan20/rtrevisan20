@@ -7,11 +7,13 @@
   <a href="https://github.com/HardDevInfo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harddevinfo&theme=radical"/>  
   </a>
-  
-![HardDev Info github stats](https://github-readme-stats.vercel.app/api?username=HardDevInfo&show_icons=true&theme=dark])
+</p>
+<div align="center">
+
+![HardDev Info github stats](https://github-readme-stats.vercel.app/api?username=HardDevInfo&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardDevInfo&theme=dark)](https://github.com/HardDevInfo/github-readme-stats)
-</p>
+</div>
 
 ## Contato
 <a href="https://instagram.com/_harddev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
