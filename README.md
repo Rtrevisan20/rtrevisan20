@@ -15,6 +15,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardDevInfo&theme=dark)](https://github.com/HardDevInfo/github-readme-stats)
 </div>
 
+### 💡 Essas são algumas tecnologias que tenho conhecimento: 
+<div>
+  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
 ## Contato
 <a href="https://instagram.com/_harddev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:renato@harddev.org"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
