@@ -10,10 +10,10 @@
 </p>
 <div align="center">
 
-![HardDev Info github stats](https://github-readme-stats.vercel.app/api?username=HardDevInfo&show_icons=true&theme=dark)
+<!-- ![HardDev Info github stats](https://github-readme-stats.vercel.app/api?username=HardDevInfo&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardDevInfo&theme=dark)](https://github.com/HardDevInfo/github-readme-stats)
-</div>
+</div> -->
 
 ### 💡 Essas são algumas tecnologias que tenho conhecimento: 
 <div>
