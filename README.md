@@ -8,7 +8,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harddevinfo&theme=radical"/>  
   </a>
   <a href="https://github.com/HardDevInfo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harddevinfo&theme=github_Dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harddevinfo&theme=github_dark">
   </a>
   <a href="https://github.com/HardDevInfo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harddevinfo&theme=github_dark">
