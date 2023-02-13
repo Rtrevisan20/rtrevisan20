@@ -7,14 +7,13 @@
   <a href="https://github.com/HardDevInfo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harddevinfo&theme=radical"/>  
   </a>
+  <a href="https://github.com/HardDevInfo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harddevinfo&theme=github">
+  </a>
+  <a href="https://github.com/HardDevInfo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harddevinfo&theme=github">
+  </a>
 </p>
-
-<!-- <div align="center">
-
-![HardDev Info github stats](https://github-readme-stats.vercel.app/api?username=HardDevInfo&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardDevInfo&theme=dark)](https://github.com/HardDevInfo/github-readme-stats)
-</div> -->
 
 ### 💡 Essas são algumas tecnologias que tenho conhecimento: 
 <div>
