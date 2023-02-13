@@ -11,7 +11,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harddevinfo&theme=github">
   </a>
   <a href="https://github.com/HardDevInfo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harddevinfo&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harddevinfo&theme=github_dark">
   </a>
 </p>
 
