@@ -1,16 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello Word! </h1>
 
 <p>
-  <a href="https://github.com/HardDevInfo">
+  <a href="https://github.com/rtrevisan20">
     <img src="https://github.com/rtrevisan20/rtrevisan20/blob/main/assets/github-contribution-grid-snake.svg"/>
   </a>
-  <a href="https://github.com/HardDevInfo">
+  <a href="https://github.com/rtrevisan20">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtrevisan20&theme=radical"/>  
   </a>
-  <a href="https://github.com/HardDevInfo">
+  <a href="https://github.com/rtrevisan20">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rtrevisan20&theme=github_dark">
   </a>
-  <a href="https://github.com/HardDevInfo">
+  <a href="https://github.com/rtrevisan20">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rtrevisan20&theme=github_dark">
   </a>
 </p>
