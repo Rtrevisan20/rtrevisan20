@@ -2,16 +2,16 @@
 
 <p>
   <a href="https://github.com/HardDevInfo">
-    <img src="https://github.com/dliocode/dliocode/blob/main/assets/github-contribution-grid-snake.svg"/>
+    <img src="https://github.com/rtrevisan20/rtrevisan20/blob/main/assets/github-contribution-grid-snake.svg"/>
   </a>
   <a href="https://github.com/HardDevInfo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harddevinfo&theme=radical"/>  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rtrevisan20&theme=radical"/>  
   </a>
   <a href="https://github.com/HardDevInfo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harddevinfo&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rtrevisan20&theme=github_dark">
   </a>
   <a href="https://github.com/HardDevInfo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harddevinfo&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rtrevisan20&theme=github_dark">
   </a>
 </p>
 
