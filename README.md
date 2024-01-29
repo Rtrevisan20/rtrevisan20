@@ -5,11 +5,11 @@
 
 ### 💡 Essas são algumas tecnologias que tenho conhecimento:
 <div>
-  <img align="left" alt="GitHub" width="35px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
-  <img align="left" alt="Embarcadero Delphi" width="35px" src="https://github.com/daviladanielc/Delphi-Captcha-Generator/raw/main/img/Delphi.png" />
-  <img align="left" alt="PostgresSQL" width="35px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
-  <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img align="left" alt="MongoDB" width="35px" src="https://www.docker.com/wp-content/uploads/2022/01/docker-logo-green_0.png.webp" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 <br />
@@ -21,10 +21,12 @@
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript icon" />
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript icon" />
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React icon" />
+  <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next icon" />
 </div>
 
-<br />
-<br />
+<br>
+<br>
+<br>
 
 <p>
   <a>
