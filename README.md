@@ -1,7 +1,7 @@
 <h1>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, me chamo Renato Trevisan
 </h1>
-<h6>Sou um entusiasta de código aberto e desenvolvedor Delphi com 6 anos de experiência. Gosto de sempre estar aprendendo novas tecnologias como JS, TS e etc. Busco sempre aprimorar meus conhecimentos em Delphi usando os novos recursos da ferramenta.</h6>
+<h5>Sou um entusiasta de código aberto e desenvolvedor Delphi com 6 anos de experiência. Gosto de sempre estar aprendendo novas tecnologias como JS, TS e etc. Busco sempre aprimorar meus conhecimentos em Delphi usando os novos recursos da ferramenta.</h5>
 
 ### 💡 Essas são algumas tecnologias que tenho conhecimento:
 <div>
