@@ -1,7 +1,7 @@
 <h1>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, me chamo Renato Trevisan
 </h1>
-<h5>Sou um entusiasta de código aberto e desenvolvedor Delphi com 7 anos de experiência. Gosto de sempre estar aprendendo novas tecnologias como JS, TS e etc. Busco sempre aprimorar meus conhecimentos em Delphi usando os novos recursos da ferramenta.</h5>
+<h5>Sou um entusiasta de código aberto e desenvolvedor Delphi com 8 anos de experiência. Gosto de sempre estar aprendendo novas tecnologias como JS, TS e etc. Busco sempre aprimorar meus conhecimentos em Delphi usando os novos recursos da ferramenta.</h5>
 
 ### 💡 Essas são algumas tecnologias que tenho conhecimento:
 <div>
@@ -45,7 +45,7 @@
 
 ## :speech_balloon: Contato
 
-<a href = "https://instagram.com/_harddev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "https://www.instagram.com/_trevisaninfo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://www.facebook.com/RTrevisan21/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href = "mailto:harddevinfo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/rtrevisan20" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
